@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "html5-qrcode": "^2.3.7"
+  }
+}
